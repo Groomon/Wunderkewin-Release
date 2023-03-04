@@ -1,4 +1,4 @@
-run = "cowsay Configure me!"
+run="./repl.deploy --standalone node index.js"
 
 [nix]
 channel = "stable-22_11"
