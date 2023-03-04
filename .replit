@@ -1,4 +1,4 @@
-run="./repl.deploy --standalone node index.js"
+run="./repl.deploy java -jar build/Wunderkewin.jar"
 
 [nix]
 channel = "stable-22_11"
